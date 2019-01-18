@@ -1,0 +1,9 @@
+﻿  main.cpp
+  MainGame.cpp
+  Sprite.cpp
+c:\users\david\documents\enginez\enginez\enginez\sprite.cpp(33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\david\documents\enginez\enginez\enginez\sprite.cpp(34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\david\documents\enginez\enginez\enginez\sprite.cpp(35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\david\documents\enginez\enginez\enginez\sprite.cpp(36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Enginez.vcxproj -> C:\Users\david\Documents\EngineZ\Enginez\Debug\Enginez.exe
